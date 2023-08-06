@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
     <!-- <h1>{{ msg1 }}</h1> -->
-    <h1>{{ state.count }}</h1>
+    <h1>{{ state.count }}0000000</h1>
     <button @click="add">{{ count }}</button>
   </div>
   <!-- <Hello></Hello> -->
